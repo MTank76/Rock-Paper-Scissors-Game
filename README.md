@@ -12,14 +12,14 @@ The game's interface is developed using Tkinter, providing a user-friendly windo
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine using:
    ```
-   [git clone https://github.com/username/rock-paper-scissors.git](https://github.com/MTank76/Rock-Paper-Scissors-Game.git)
+   https://github.com/MTank76/Rock-Paper-Scissors-Game.git
    ```
-3. Navigate to the project directory in the terminal.
-4. Run the Python script `rock_paper_scissors.py`:
+4. Navigate to the project directory in the terminal.
+5. Run the Python script `rock_paper_scissors.py`:
    ```
    python rock_paper_scissors.py
    ```
-5. The game window will appear, allowing you to interact and play the game.
+6. The game window will appear, allowing you to interact and play the game.
 
 ## Game Controls
 
